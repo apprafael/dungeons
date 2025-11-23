@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://b34o7jxbg4m7v"]
+
+[ext_resource type="PackedScene" uid="uid://bjbcog8snqdwp" path="res://scenes/dungeon.tscn" id="1_w7c3h"]
+[ext_resource type="PackedScene" uid="uid://cphn3wqkudh16" path="res://scenes/player.tscn" id="2_w8frs"]
+
+[node name="level" type="Node2D"]
+z_index = 1
+y_sort_enabled = true
+position = Vector2(1, 5)
+
+[node name="Dungeon" parent="." instance=ExtResource("1_w7c3h")]
+
+[node name="Player" parent="." instance=ExtResource("2_w8frs")]
+position = Vector2(113, 465)

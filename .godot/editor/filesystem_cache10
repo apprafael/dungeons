@@ -1,0 +1,14 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1763910588
+icon.svg::CompressedTexture2D::4674762538413428731::1762899463::1763910249::1::::<><><>0<>0<>0269f2c6cb9a263897ecb3452d913de0<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+README.md::TextFile::-1::1763910570::0::1::::<><><>0<>0<><>::
+::res://assets/::1763910249
+dungeon-tilemap.png::CompressedTexture2D::4055996336412815336::1763909353::1763910249::1::::<><><>0<>0<>4ef32f02f8363259e5468df6aa5e7847<>res://.godot/imported/dungeon-tilemap.png-c9995ee30f7161a01e17101b2592c4ea.ctex::
+Dwarf Sprite Sheet 1-export.png::CompressedTexture2D::1044016492412695930::1763909262::1763910249::1::::<><><>0<>0<>6322859fe4676373e5b79def3fb408b5<>res://.godot/imported/Dwarf Sprite Sheet 1-export.png-004fcd57d0ced49f699d953a20bf709d.ctex::
+::res://scenes/::1763910445
+dungeon.tscn::PackedScene::3020331456244143447::1763908949::0::1::::<><><>0<>0<><>::uid://bx10wxeuv8fsy::::res://assets/dungeon-tilemap.png
+level.tscn::PackedScene::4412482952024689581::1763910381::0::1::::<><><>0<>0<><>::uid://bjbcog8snqdwp::::res://scenes/dungeon.tscn<>uid://cphn3wqkudh16::::res://scenes/player.tscn
+player.tscn::PackedScene::5840965170082189127::1763910445::0::1::::<><><>0<>0<><>::uid://db0p52xs7ihpy::::res://scripts/player.gd<>uid://o4y2f0yrquvq::::res://assets/Dwarf Sprite Sheet 1-export.png
+::res://scripts/::1763909774
+player.gd::GDScript::7282026121799352690::1763909774::0::1::::<>CharacterBody2D<><>0<>0<><>::
+StateMachine.gd::GDScript::4839576934458176976::1763322829::0::1::::<>Node<><>0<>0<><>::
